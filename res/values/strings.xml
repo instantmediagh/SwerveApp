@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swerve</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Swerves</string>
+    <string name="title_section2">Friends</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_login">Login To Swerve</string>
+    <string name="title_activity_recipients">Choose Recipients</string>
+    <string name="title_activity_view_image">View Your Swerve</string>      
+    <string name="hello_world">Hello world!</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_label">Swerve In</string>
+    <string name="sign_up_text">Swerve Up!</string>
+    <string name="title_activity_sign_up">Signup To Swerve</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Swerve Up</string>
+    <string name="empty_inbox_label">No New Swerves</string>
+    <string name="empty_friends_label">Add Friends to Begin!</string>
+    <string name="signup_error_message">Please make sure you enter a username, password and email address!</string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="login_error_message">Please enter a valid username and Password</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="menu_logout_label">Swerve Out</string>
+    <string name="menu_edit_friends_label">Edit Friends</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="error_title">We\'re Sorry!</string>
+    <string name="menu_camera_label">Camera</string>
+    <string name="menu_message">Message</string>
+    <string name="error_external_storage">There was a problem accessing your device\'s external storage</string>
+    <string name="general_error">Sorry, there was an error</string>
+    <string name="video_file_size_warning">"The selected video must be less than 10 MB"</string>
+    <string name="error_opening_file">There was a problem with the file.</string>
+    <string name="error_file_size_too_large">The selected file is too large! Select a new file.</string>
+    <string name="empty_recipients_list_message">Choose some friends first!</string>
+    <string name="menu_send_label">Send</string>
+    <string name="error_selecting_file">There was an error with the file selected. Please select a different file!</string>
+    <string name="error_selecting_file_title">We\'re Sorry!</string>
+    <string name="success_message">Message Sent!</string>
+    <string name="error_sending_message">There was a error sending your message. Please Try Again.</string>
+    <string name="dialog_add_friend_title">Add Friends</string>
+    <string name="success_friend_request_sent">Friend Request Sent</string>
+    <string name="dialog_error_sending_friend_request">There was an error sending the friend request</string>
+    <string name="dialog_delete_friend_title">Delete Friends</string>
+    
+    <string-array name="camera_choices">
+    	<item >Take Picture</item>
+        <item >Take Video</item>
+        <item >Choose Picture</item>
+        <item >Choose Video</item>
+    </string-array>
+        <string name="swerved_message">You have been Swerved</string>
+        <string name="haha">Swerved</string>
+        <string name="enter_phone_number">Enter Your Phone Number</string>
+        <string name="dialog_delete_friend_message">"Are you sure you want to delete your friend "</string>
+        <string name="friend_accept">Accept</string>
+        <string name="new_friend_accept">Accept</string>
+
+
+</resources>
